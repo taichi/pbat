@@ -12,3 +12,8 @@ capture taken by
 ## [pcd](https://github.com/mattn/pcd)
 
 ![pcd](captures/pcd.gif)
+
+## pdir
+
+![pdir](captures/pdir.gif)
+
